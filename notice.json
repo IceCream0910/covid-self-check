@@ -12,7 +12,7 @@
     {
       "id": "update_2.20",
       "priority": "every",
-      "version": "1.00..2.19",
+      "version": "2.19..2.19",
       "title": "업데이트가 있어요",
       "message": "자가진단이 제출되지 않는 오류를 수정한 버전이 배포되었어요. 아래 링크를 눌러 apk파일을 다운 후 실행해주세요.</b><br><a href='https://github.com/IceCream0910/covid-self-check/releases'>최신버전 다운로드</a>"
     }
