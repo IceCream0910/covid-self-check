@@ -14,7 +14,7 @@
       "priority": "every",
       "version": "1.00..2.20",
       "title": "업데이트가 있어요",
-      "message": "새로운 버전이 배포되었어요. 정상적인 사용을 위해 아래 링크를 눌러 APK 파일을 다운 후 실행해주세요.</b><br><a href='https://github.com/IceCream0910/covid-self-check/releases'>최신버전 다운로드</a>"
+      "message": "새로운 버전이 배포되었어요. 정상적인 사용을 위해 아래 링크를 눌러 APK 파일을 다운 후 실행해주세요.</b><br><a href='https://github.com/IceCream0910/covid-self-check/releases/tag/latest'>최신버전 다운로드</a>"
     }
   ]
 }
