@@ -10,9 +10,9 @@
       "message": "코로나19 특이사항이 있는 경우에는 공식 자가진단 앱이나 사이트를 이용해 제출하는 것을 권장합니다. 본 앱은 정상 자가진단 제출 과정 간소화를 위해 개발되었습니다. 이 앱을 사용함으로써 얻는 불이익은 책임지지 않습니다.<br><a href='https://icecream0910.github.io/covid-self-check/privacy.html'>개인정보 처리 방침</a>에 동의하는 것으로 간주됩니다."
     },
     {
-      "id": "update_2.20",
+      "id": "update",
       "priority": "every",
-      "version": "1.00..2.20",
+      "version": "1.00..2.21",
       "title": "업데이트가 있어요",
       "message": "새로운 버전이 배포되었어요. 정상적인 사용을 위해 아래 링크를 눌러 APK 파일을 다운 후 실행해주세요.</b><br><a href='https://github.com/IceCream0910/covid-self-check/releases/tag/latest'>최신버전 다운로드</a>"
     }
